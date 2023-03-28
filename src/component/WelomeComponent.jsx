@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 
 const languages = [
-    { value: '', text: "Options" },
     { value: 'ar', text: "Arabic" },
     { value: 'en', text: "English" },
     { value: 'hi', text: "Hindi" },
